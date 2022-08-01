@@ -1,0 +1,22 @@
+Setup completed
+{
+    "timestamp": "2022:08:01 13:50:44",
+    "request": {
+        "source": "Reuters World",
+        "url": "http://www.reuters.com/newsArticle.jhtml?type=worldNewsstoryID=7228962",
+        "title": "Peru Arrests Siege Leader, to Storm Police Post",
+        "description": "LIMA, Peru (Reuters) - Peruvian authorities arrested a former army major who led a three-day uprising in a southern  Andean town and will storm the police station where some of his  200 supporters remain unless they surrender soon, Prime  Minister Carlos Ferrero said on Tuesday."
+    },
+    "prediction": {
+        "Business": 0.08527763551677053,
+        "Entertainment": 0.6797734539558364,
+        "Health": 0.045047980118558366,
+        "Music Feeds": 0.005276284752565425,
+        "Sci/Tech": 0.1043260645431903,
+        "Software and Developement": 0.012950580827208994,
+        "Sports": 0.058882839964544666,
+        "Toons": 0.008465160321325375
+    },
+    "label": "Entertainment",
+    "latency": "125 ms"
+}
