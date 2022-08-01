@@ -1,3 +1,5 @@
+Docker image: https://drive.google.com/file/d/11lcVDdJI0TCNw9r_mODkWxnuHlIh_HMy/view?usp=sharing
+
 ## Introduction
 
 In the project this week, we will focus on model deployment for the news classification model that we trained in week 1, and evaluated in week 2.
